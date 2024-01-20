@@ -1,0 +1,8 @@
+{
+  "name": "Very Simple Keyboard",
+  "short_name": "VSK",
+  "start_url": "https://graphicore.github.io/very-simple-keyboard/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Keyboard with big keys for peple with impaired fine motion."
+}
